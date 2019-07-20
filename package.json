@@ -2,13 +2,8 @@
     "title": "Freelancer",
     "name": "startbootstrap-freelancer",
     "version": "5.1.2",
-    "engines": {
-        "node": "8.11.2",
-        "npm": "6.10.1"
-    },
     "scripts": {
-        "start": "node_modules/.bin/gulp watch",
-        "poststart": "npm prune --production"
+        "start": "node_modules/.bin/gulp watch"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
@@ -43,7 +38,7 @@
     "devDependencies": {
         "browser-sync": "2.26.7",
         "del": "4.1.1",
-        "gulp": "^4.0.2",
+        "gulp": "4.0.2",
         "gulp-autoprefixer": "6.1.0",
         "gulp-clean-css": "4.2.0",
         "gulp-header": "2.0.7",
