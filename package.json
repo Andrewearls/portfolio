@@ -7,8 +7,8 @@
         "npm": "6.10.1"
     },
     "scripts": {
-        "start": "node app",
-        "postinstall": "gulp default"
+        "build": "gulp",
+        "start": "gulp watch"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
