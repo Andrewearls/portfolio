@@ -2,8 +2,12 @@
     "title": "Freelancer",
     "name": "startbootstrap-freelancer",
     "version": "5.1.2",
+    "engine": {
+        "node": "8.11.2",
+        "npm": "6.10.1"
+    },
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "gulp watch"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
