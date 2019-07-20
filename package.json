@@ -8,7 +8,7 @@
     },
     "scripts": {
         "build": "gulp",
-        "start": "gulp watch"
+        "start": "index.html"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
